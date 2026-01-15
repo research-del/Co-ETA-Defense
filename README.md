@@ -41,3 +41,17 @@ For code-related questions and technical issues:
 
 Please contact (5103240323@stmail.ujs.edu.cn)
 Check the documentation and existing issues first
+
+
+
+# System Requirements
+The experiments in this repository were conducted on the following system.  
+Results are reproducible on any comparable machine.
+
+- Operating System: / Windows 10+
+- CPU: 8-core Intel / AMD CPU or equivalent
+- RAM: ≥ 16 GB
+  GPU: Optional (NVIDIA GPU recommended but not required)
+- CUDA: Not required (CPU-only execution supported)
+- Python: 3.8 or later
+
