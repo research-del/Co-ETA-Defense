@@ -28,3 +28,16 @@ COETA-defense/
 │       └── openworld_PRC.py      # Precision-Recall Curve plotting
 ├── README.md                     # Project documentation
 └── requirements.txt              # Python dependencies
+
+
+Contact
+
+This research was conducted at the School of Computer Science and Technology, Jiangsu University.
+
+For research collaboration and academic inquiries:
+
+Please contact our research group through official university channels
+For code-related questions and technical issues:
+
+Please contact (5103240323@stmail.ujs.edu.cn)
+Check the documentation and existing issues first
