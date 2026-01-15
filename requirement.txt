@@ -1,0 +1,19 @@
+# ===============================
+# Co-ETA Requirements
+# ===============================
+
+# Core
+python>=3.8
+
+# Numerical computing
+numpy>=1.21
+
+# Deep learning
+torch>=1.12
+
+# Machine learning
+scikit-learn>=1.0
+joblib>=1.2
+
+# Utilities
+tqdm>=4.64
